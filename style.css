@@ -81,12 +81,17 @@ This is why middle section don't need a -con as background is white*/
 .middle {
 	display: flex;
 	justify-content: center;
-	margin: 16px 96px 24px 96px;
+	margin: 0px 96px 24px 96px;
 	gap: 16px;
 }
 
 .breed {
 	text-align: center;
+}
+
+.breed img {
+	height: auto;
+	width: 20vw;
 }
 
 .card-container {
