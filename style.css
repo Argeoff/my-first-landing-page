@@ -74,6 +74,7 @@ This is why middle section don't need a -con as background is white*/
 .subtext {
 	font-size: 18px;
 	color: #D3D3D3;
+	text-align: justify;
 }
 
 .top-image{
@@ -114,6 +115,7 @@ This is why middle section don't need a -con as background is white*/
 
 .quote {
 	font-style: italic;
+	text-align: justify;
 }
 
 .quote-con p {
@@ -122,7 +124,6 @@ This is why middle section don't need a -con as background is white*/
 	font-weight: 700;
 	text-align: right;
 }
-
 
 .card-container {
 	flex: 1;
