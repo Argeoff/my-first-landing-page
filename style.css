@@ -91,8 +91,6 @@ For the elements to center in the middle and background color will run continuou
 }
 
 .breed {
-	height: 240px;
-	width: 240px;
 	border-radius: 25px;
 	padding: 12px;
 	display: flex;
@@ -108,7 +106,7 @@ For the elements to center in the middle and background color will run continuou
 }
 
 .breed img {
-	max-width: 85%;
+	max-width: 100%;
 	height: auto;
 	border-radius: 25px;
 }
