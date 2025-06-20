@@ -144,6 +144,7 @@ For the elements to center in the middle and background color will run continuou
 	margin: 36px 25vw;
 	display: flex;
 	justify-content: center;
+	flex: 1;
 }
 
 .card {
