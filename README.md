@@ -14,3 +14,7 @@ https://unsplash.com/photos/black-and-white-cat-lying-on-brown-bamboo-chair-insi
 
 Photo by Bobbi Wu - https://unsplash.com/@bobbiwu
 https://unsplash.com/photos/a-white-cat-sitting-on-top-of-a-gray-couch-zTnovhJ-gr0
+
+
+Photo By Davidvraju - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61734391
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rusty_spotted_cat_1.jpg/800px-Rusty_spotted_cat_1.jpg
