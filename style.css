@@ -63,7 +63,7 @@ For the elements to center in the middle and background color will run continuou
 	display: flex;
 	justify-content: center;
 	gap: 48px;
-	margin: 24px 15vw;
+	margin: 48px 15vw 48px 15vw;
 }
 
 .main-text {
@@ -77,12 +77,11 @@ For the elements to center in the middle and background color will run continuou
 .subtext {
 	font-size: 18px;
 	color: #D3D3D3;
-	text-align: justify;
 }
 
 .top-image {
-	height: 340px;
-	width: 540px;
+	max-width: 100%;
+	height: auto;
 }
 
 .middle-con {
@@ -142,10 +141,42 @@ For the elements to center in the middle and background color will run continuou
 }
 
 .card-container {
+	margin: 36px 25vw;
+	display: flex;
+	justify-content: center;
+}
+
+.card {
+	background-color: #3882F6;
+	color: #fff;
+	border-radius: 10px;
+	padding: 36px 64px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 	flex: 1;
+}
+
+.sub-card1 {
+	margin: 0 0 4px 0;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.sub-card2 {
+	margin: 0;
+	font-size: 12px;
+}
+
+.card button {
+	border: 3px solid #fff;
 }
 
 .footer{
 	background-color: #1F2937;
 	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 24px;
 }
