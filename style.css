@@ -20,6 +20,10 @@ a {
 	color: #F9FAF8;
 }
 
+img {
+	border-radius: 30px;
+}
+
 h3 {
 	margin: 24px;
 	font-size: 24px;
@@ -92,17 +96,16 @@ For the elements to center in the middle and background color will run continuou
 
 .breed {
 	border-radius: 25px;
-	padding: 12px;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
 	align-items: center;
-	gap: 8px;
+	gap: 12px;
 }
 
 .breed-con {
 	display: flex;
-	gap: 16px;
+	gap: 20px;
 }
 
 .breed img {
@@ -128,6 +131,7 @@ For the elements to center in the middle and background color will run continuou
 .quote {
 	font-style: italic;
 	text-align: justify;
+	margin-bottom: 6px;
 }
 
 .quote-con p {
